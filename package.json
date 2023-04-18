@@ -1,0 +1,21 @@
+{
+  "name": "beycord",
+  "version": "1.0.0",
+  "description": "An open-source Discord Beyblade bot!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thororen1234/Beycord.git"
+  },
+  "keywords": [
+    "beycord",
+    "beyblade",
+    "discord"
+  ],
+  "author": "SunSOG",
+  "license": "GPL-3.0",
+  "homepage": "https://github.com/thororen1234/Beycord#readme"
+}
