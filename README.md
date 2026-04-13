@@ -9,12 +9,14 @@ Now, it has been revived as an open-source project — everyone is welcome to co
 Check out their branches to view each codebase:
 
 - **Beycord Original** — original repo (possible rewrite if found)
+- **Beycord Packaged** - just a more filled out version tmk
 - **Beycord+**
 - **NeoBlade**
 
-## Archived Workshops
+## Archived Workshops & Bey Kit
 
 Check out their branches to view each codebase:
 
 - **BCWorkshop**
 - **BCTest**
+- **BeyKit**
