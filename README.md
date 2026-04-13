@@ -1,13 +1,20 @@
 # Beycord
 
-3 years ago, SunSOG began this bot as a hobby to to learn programming languages and better his English. It was doing pretty well but it unfortunately came to an end on April 1st 2021. But now, it has been revived as an open-source project! Everyone is welcomed to work on it.
+3 years ago, SunSOG began this bot as a hobby to learn programming languages and better his English.
+It was doing pretty well, but unfortunately came to an end on April 1st, 2021.
+Now, it has been revived as an open-source project — everyone is welcome to contribute!
 
-I have archived these versions/forks of beycord
+## Archived Versions & Forks
 
-Beycord Original Repo (also possible rewrite if I find it again)
+Check out their branches to view each codebase:
 
-Beycord+
+- **Beycord Original** — original repo (possible rewrite if found)
+- **Beycord+**
+- **NeoBlade**
 
-NeoBlade
+## Archived Workshops
 
-check out their branches to view their codebase
+Check out their branches to view each codebase:
+
+- **BCWorkshop**
+- **BCTest**
