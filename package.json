@@ -1,0 +1,47 @@
+{
+  "name": "beycord",
+  "version": "1.0.0",
+  "description": "An open-source Discord Beyblade bot!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CorruptX/beycord.git"
+  },
+  "keywords": [
+    "beycord",
+    "beyblade",
+    "discord"
+  ],
+  "author": "SunSOG & CorruptX",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/CorruptX/beycord/issues"
+  },
+  "homepage": "https://github.com/CorruptX/beycord#readme",
+  "dependencies": {
+    "@top-gg/sdk": "^3.1.2",
+    "addition": "^0.0.2",
+    "bcworkshop": "^0.0.1",
+    "discord.js": "^12.0.0",
+    "discord.js-poll": "^1.1.2",
+    "dotenv": "^8.6.0",
+    "eris": "^0.15.1",
+    "eris-additions": "^1.4.1",
+    "eris-reactions": "^0.1.4",
+    "eris-sharder": "^1.10.0",
+    "fs": "^0.0.1-security",
+    "fuse.js": "^6.4.6",
+    "gifencoder": "^2.0.1",
+    "init": "^0.1.2",
+    "jimp": "^0.16.1",
+    "mongodb": "^3.6.9",
+    "npm": "^8.19.2",
+    "quick.db": "^7.1.3"
+  },
+  "engines": {
+    "node": "v16.16.0"
+  }
+}
