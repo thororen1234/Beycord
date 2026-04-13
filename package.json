@@ -1,0 +1,37 @@
+{
+  "name": "bcworkshop",
+  "version": "0.0.1-dev",
+  "description": "The only library you will need to create Beyblades for Beycord!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunSOG/bcworkshop.git"
+  },
+  "keywords": [
+    "beyblade"
+  ],
+  "author": "SunSOG <john@overcold.cf>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/SunSOG/bcworkshop/issues"
+  },
+  "homepage": "https://github.com/SunSOG/bcworkshop#readme",
+  "dependencies": {
+    "uglify-es": "github:mishoo/UglifyJS#harmony"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.2",
+    "@typescript-eslint/eslint-plugin": "^4.2.0",
+    "@typescript-eslint/parser": "^4.2.0",
+    "eslint": "^7.10.0",
+    "eslint-plugin-sort-class-members": "^1.8.0",
+    "typescript": "^3.4.3"
+  },
+  "optionalDependencies": {
+    "eventemitter3": "^4.0.7",
+    "discord.js": "^12.3.1"
+  }
+}
