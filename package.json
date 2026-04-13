@@ -1,0 +1,25 @@
+{
+    "name": "beycord-bey-kit",
+    "description": "Make a Bey for Beycord.",
+    "version": "0.0.1",
+    "main": "./check.js",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/SunSOG/beycord-bey-kit.git"
+    },
+    "dependencies": {
+    "discord.js": "^11.5.1",
+    "fs": "^0.0.1"
+  },
+    "keywords": [
+      "beycord",
+      "node",
+      "javascript"
+    ],
+    "author": "John Ng <chuchengng@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/SunSOG/beycord-bey-kit/issues"
+    },
+    "homepage": "https://github.com/SunSOG/beycord-bey-kit#README"
+  }
