@@ -1,23 +1,19 @@
-# Beycord
+![Beycord](https://media.discordapp.net/attachments/869855764477509643/881662711543513160/BeycordNewLogoVar.png?width=498&height=498)  
+Beycord
+=======
+In 2019, a person who called himself SunSOG began this discord bot as a hobby to learn to program and better his English. The progress and support was pretty decent, but unfortunately the project had to come to a closure on April 1st, 2021. Now, Beycord is revived as an open-source project! Everyone is welcomed to work on it.
 
-3 years ago, SunSOG began this bot as a hobby to learn programming languages and better his English.
-It was doing pretty well, but unfortunately came to an end on April 1st, 2021.
-Now, it has been revived as an open-source project — everyone is welcome to contribute!
+**Table of contents**
+- [External Repositories](#external-repositories)  
+- [Useful Links](#useful-links)
 
-## Archived Versions & Forks
+# External Repositories
+**[BCWorkshop](https://github.com/CorruptX/bcworkshop)** - The custom-coded library used to create Beys.  
+**[Beys](https://github.com/CorruptX/beys)** - External repository to store created Beys. If you want to contribute a Bey, push it here instead.
 
-Check out their branches to view each codebase:
-
-- **Beycord Original** — Original Repository
-- **Beycord Packaged** - Original Repo with missing stuff
-- **Beycord Rewrite** - Missing
-- **Beycord+** - More Accurate to the original Beycord but way messier
-- **NeoBlade** - A Mash up of Beycord+, Beycord, and Beycord Rewrite with extra beys and features
-
-## Archived Workshops & Bey Kit
-
-Check out their branches to view each codebase:
-
-- **BCWorkshop** - Make Beyblades (newer?)
-- **BCTest** - Base for BCWorkshop usagae
-- **BeyKit** - Make Beyblades - Version 1.0.1
+# Useful Links
+[Beycord Gitbook](https://docs.beycord.com) (Beycord Documents)
+[Eris Discord Library](https://abal.moe/Eris/) (Main library)
+[Discord.js](https://discord.js.org/#/) (Sub library)  
+[Discord.js Guide](https://discordjs.guide/) (Compatible with Eris too although requires some changes to be done)
+[MongoDB Database](https://www.mongodb.com/) (Main database)
