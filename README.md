@@ -8,15 +8,16 @@ Now, it has been revived as an open-source project — everyone is welcome to co
 
 Check out their branches to view each codebase:
 
-- **Beycord Original** — original repo (possible rewrite if found)
-- **Beycord Packaged** - just a more filled out version tmk
-- **Beycord+**
-- **NeoBlade**
+- **Beycord Original** — Original Repository
+- **Beycord Packaged** - Original Repo with missing stuff
+- **Beycord Rewrite** - Missing
+- **Beycord+** - More Accurate to the original Beycord but way messier
+- **NeoBlade** - A Mash up of Beycord+, Beycord, and Beycord Rewrite with extra beys and features
 
 ## Archived Workshops & Bey Kit
 
 Check out their branches to view each codebase:
 
-- **BCWorkshop**
-- **BCTest**
-- **BeyKit**
+- **BCWorkshop** - Make Beyblades (newer?)
+- **BCTest** - Base for BCWorkshop usagae
+- **BeyKit** - Make Beyblades - Version 1.0.1
