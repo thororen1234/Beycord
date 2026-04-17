@@ -1,6 +1,6 @@
 # Beycord
 
-3 years ago, SunSOG began this bot as a hobby to learn programming languages and better his English.
+5 years ago, SunSOG began this bot as a hobby to learn programming languages and better his English.
 It was doing pretty well, but unfortunately came to an end on April 1st, 2021.
 Now, it has been revived as an open-source project — everyone is welcome to contribute!
 
