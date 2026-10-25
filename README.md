@@ -8,7 +8,7 @@ Now, it has been revived as an open-source project — everyone is welcome to co
 
 Check out their branches to view each codebase:
 
-- **Beycord Original** — Original Repository by SunSOG
+- **Beycord Original** - Original Repository by SunSOG
 - **Beycord Packaged** - Original Repo with missing stuff by SunSOG
 - **Beycord V13** - Discord JS v13 Update (The Git Tree for above is [here](https://github.com/thororen1234/beycord-source)) by SunSOG & CorruptX
 - **Beycord+** - More Accurate to the original Beycord but way messier by WhizzieGaming
